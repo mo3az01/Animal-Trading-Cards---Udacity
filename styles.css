@@ -1,0 +1,31 @@
+/* add your CSS here */
+body {
+	background-color: #FFF;
+	width: 320px;
+	padding: 10px;
+	border: 1px solid lightgray;
+}
+
+#name{
+	font-size: 25px;
+}
+
+#interesing_fact{
+	font-style: italic;
+}
+
+#info{
+	border: 1px solid lightgray;	
+	width: 280px;
+	padding: 0px 10px 10px 10px;
+	margin-top: 10px;
+}
+.list_item_property{
+	font-weight: bold;
+}
+
+.list{
+	margin: 0;
+	padding: 0;
+	list-style-type:none;	
+}
